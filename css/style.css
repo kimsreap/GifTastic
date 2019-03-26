@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    font-size: 40pt;
+    line-height: 50px;
+    color: darkslateblue;
+    margin: 3% 20% 0 30%;
+}
+
+button {
+    height: 35px;
+    width: 120px;
+    margin: 2% 3% 0% 3%;
+    text-align: center;
+}
+
+#btnDiv {
+    margin: 70px 0  0 200px;
+}
