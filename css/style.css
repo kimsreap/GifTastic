@@ -1,5 +1,6 @@
 body {
     background-color: pink;
+    background-image: url('../image/holiday.jpg')
 }
 
 h1 {
@@ -19,3 +20,4 @@ button {
 #btnDiv {
     margin: 70px 0  0 200px;
 }
+
